@@ -1,1 +1,1 @@
-Decentralized Todo Application
+## Simple Decentralized Todo Application
